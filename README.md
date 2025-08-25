@@ -75,11 +75,3 @@ This project successfully develops a high-accuracy model for predicting ticket c
 - matplotlib
 - seaborn
 
-## Usage
-To run the notebook, clone this repository and install the required dependencies. Open the notebook in Jupyter and execute the cells.
-
-```bash
-git clone https://github.com/P-Darabi/Prediction_Of_Ticket_Cancellation_Acc_98.git
-cd Prediction_Of_Ticket_Cancellation_Acc_98
-pip install -r requirements.txt
-jupyter notebook
